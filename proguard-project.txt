@@ -18,4 +18,4 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
-#Test dev_2.0
+#Test dev_2.0 test
